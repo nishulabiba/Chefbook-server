@@ -1,0 +1,356 @@
+[
+    {
+        "id": 1,
+      "picture": "https://example.com/chef1-profile.jpg",
+      "name": "Zubaida Tariq",
+      "yearsOfExperience": 15,
+      "numOfRecipes": 190,
+      "likes": 32000,
+      "description": "Also known as Aapa (elder sister), Zubaida Tariq was a renowned Pakistani chef, cooking expert, and television personality known for her expertise in traditional Pakistani cuisine",
+      "recipes": [
+        {
+          "title": "Beef Nehari",
+          "picture": "https://th.bing.com/th/id/OIP.c7Ow5QP44Z7Gkt2AqPOjAgHaFj?pid=ImgDet&rs=1",
+          "ingredients": [
+            "2 beef steaks (8 oz each)",
+            "Salt and black pepper to taste",
+            "1 tablespoon olive oil",
+            "2 cloves garlic, minced",
+            "1 teaspoon rosemary, chopped",
+            "1 teaspoon thyme, chopped",
+            "4 tablespoons butter"
+          ],
+          "cookingMethod": "1. Preheat grill to high heat. Season steaks with salt, pepper, and olive oil.\n2. Grill steaks for 4-5 minutes per side for medium-rare.\n3. In a skillet, melt butter and add minced garlic, rosemary, and thyme. Baste steaks with the herbed butter.\n4. Let steaks rest for a few minutes before serving.",
+          "rating": 4.8
+        },
+    
+        {
+            "title": "Chicken Korma",
+            "picture": "https://th.bing.com/th/id/OIP.mqnc6Vl1IzI17axcXoX_ygHaHa?pid=ImgDet&rs=1",
+            "ingredients": [
+              "2 beef steaks (8 oz each)",
+              "Salt and black pepper to taste",
+              "1 tablespoon olive oil",
+              "2 cloves garlic, minced",
+              "1 teaspoon rosemary, chopped",
+              "1 teaspoon thyme, chopped",
+              "4 tablespoons butter"
+            ],
+            "cookingMethod": "1. Preheat grill to high heat. Season steaks with salt, pepper, and olive oil.\n2. Grill steaks for 4-5 minutes per side for medium-rare.\n3. In a skillet, melt butter and add minced garlic, rosemary, and thyme. Baste steaks with the herbed butter.\n4. Let steaks rest for a few minutes before serving.",
+            "rating": 4.8
+          },
+          
+        {
+            "title": "Prawn Maalai Curry",
+            "picture": "https://th.bing.com/th/id/OIP.XdAPbAL6WBlUd-LQrHZREQHaHa?pid=ImgDet&rs=1",
+            "ingredients": [
+              "2 beef steaks (8 oz each)",
+              "Salt and black pepper to taste",
+              "1 tablespoon olive oil",
+              "2 cloves garlic, minced",
+              "1 teaspoon rosemary, chopped",
+              "1 teaspoon thyme, chopped",
+              "4 tablespoons butter"
+            ],
+            "cookingMethod": "1. Preheat grill to high heat. Season steaks with salt, pepper, and olive oil.\n2. Grill steaks for 4-5 minutes per side for medium-rare.\n3. In a skillet, melt butter and add minced garlic, rosemary, and thyme. Baste steaks with the herbed butter.\n4. Let steaks rest for a few minutes before serving.",
+            "rating": 4.8
+          }
+    
+      ]
+    },
+    {
+        "id": 2,
+      "picture": "https://example.com/chef2-profile.jpg",
+      "name": "Shireen Anwar",
+      "yearsOfExperience": 8,
+      "numOfRecipes": 90,
+      "likes": 12000,
+      "description": "Shireen Anwar is a Pakistani chef and cooking show host known for her delicious and diverse recipes. She's popular for sharing both traditional and contemporary Pakistani dishes.",
+      "recipes": [
+        {
+          "recipe_id": 1,
+          "title": "Chicken Fajitas",
+          "picture": "https://th.bing.com/th/id/R.ef56ce7eb66714ca35d611282992472c?rik=8sn6wESr47JxdQ&pid=ImgRaw&r=0",
+          "ingredients": [
+            "2 boneless chicken breasts, sliced",
+            "1 red bell pepper, sliced",
+            "1 green bell pepper, sliced",
+            "1 onion, sliced",
+            "2 tablespoons fajita seasoning",
+            "4 flour tortillas",
+            "Sour cream and salsa (for serving)"
+          ],
+          "cookingMethod": "1. Heat a skillet over medium-high heat. Add chicken and fajita seasoning. Cook until no longer pink.\n2. Push chicken to the side and add bell peppers and onion. Cook until softened.\n3. Serve on warm tortillas. Top with sour cream and salsa.",
+          "rating": 4.7
+        },
+        {
+          "recipe_id": 2,
+          "title": "Chicken Biryani",
+          "picture": "https://th.bing.com/th/id/OIP.pA3QV9le3tWkxzb9gqli0gHaFj?pid=ImgDet&rs=1",
+          "ingredients": [
+            "2 boneless chicken breasts, sliced",
+            "1 red bell pepper, sliced",
+            "1 green bell pepper, sliced",
+            "1 onion, sliced",
+            "2 tablespoons fajita seasoning",
+            "4 flour tortillas",
+            "Sour cream and salsa (for serving)"
+          ],
+          "cookingMethod": "1. Heat a skillet over medium-high heat. Add chicken and fajita seasoning. Cook until no longer pink.\n2. Push chicken to the side and add bell peppers and onion. Cook until softened.\n3. Serve on warm tortillas. Top with sour cream and salsa.",
+          "rating": 4.7
+        }
+        , {
+          "recipe_id": 3,
+          "title": "Naga Chicken",
+          "picture": "https://th.bing.com/th/id/R.66d0540c5d50af120ee69082aa92e1fe?rik=So0FOScT%2f3l8og&pid=ImgRaw&r=0",
+          "ingredients": [
+            "2 boneless chicken breasts, sliced",
+            "1 red bell pepper, sliced",
+            "1 green bell pepper, sliced",
+            "1 onion, sliced",
+            "2 tablespoons fajita seasoning",
+            "4 flour tortillas",
+            "Sour cream and salsa (for serving)"
+          ],
+          "cookingMethod": "1. Heat a skillet over medium-high heat. Add chicken and fajita seasoning. Cook until no longer pink.\n2. Push chicken to the side and add bell peppers and onion. Cook until softened.\n3. Serve on warm tortillas. Top with sour cream and salsa.",
+          "rating": 4.7
+        }
+      ]
+    },
+    {
+        "id": 3,
+        "picture": "https://example.com/chef2-profile.jpg",
+        "name": "Chef Zakir",
+        "yearsOfExperience": 8,
+        "numOfRecipes": 90,
+        "likes": 12000,
+        "description": "Chef Zakir is a well-known Pakistani chef and cooking expert who gained fame through his cooking shows on television, where he demonstrated a wide range of Pakistani and international recipes.",
+        "recipes": [
+            {
+              "title": "Beef Nehari",
+              "picture": "https://th.bing.com/th/id/OIP.c7Ow5QP44Z7Gkt2AqPOjAgHaFj?pid=ImgDet&rs=1",
+              "ingredients": [
+                "2 beef steaks (8 oz each)",
+                "Salt and black pepper to taste",
+                "1 tablespoon olive oil",
+                "2 cloves garlic, minced",
+                "1 teaspoon rosemary, chopped",
+                "1 teaspoon thyme, chopped",
+                "4 tablespoons butter"
+              ],
+              "cookingMethod": "1. Preheat grill to high heat. Season steaks with salt, pepper, and olive oil.\n2. Grill steaks for 4-5 minutes per side for medium-rare.\n3. In a skillet, melt butter and add minced garlic, rosemary, and thyme. Baste steaks with the herbed butter.\n4. Let steaks rest for a few minutes before serving.",
+              "rating": 4.8
+            },
+        
+            {
+                "title": "Chicken Korma",
+                "picture": "https://th.bing.com/th/id/OIP.mqnc6Vl1IzI17axcXoX_ygHaHa?pid=ImgDet&rs=1",
+                "ingredients": [
+                  "2 beef steaks (8 oz each)",
+                  "Salt and black pepper to taste",
+                  "1 tablespoon olive oil",
+                  "2 cloves garlic, minced",
+                  "1 teaspoon rosemary, chopped",
+                  "1 teaspoon thyme, chopped",
+                  "4 tablespoons butter"
+                ],
+                "cookingMethod": "1. Preheat grill to high heat. Season steaks with salt, pepper, and olive oil.\n2. Grill steaks for 4-5 minutes per side for medium-rare.\n3. In a skillet, melt butter and add minced garlic, rosemary, and thyme. Baste steaks with the herbed butter.\n4. Let steaks rest for a few minutes before serving.",
+                "rating": 4.8
+              },
+              
+            {
+                "title": "Prawn Maalai Curry",
+                "picture": "https://th.bing.com/th/id/OIP.XdAPbAL6WBlUd-LQrHZREQHaHa?pid=ImgDet&rs=1",
+                "ingredients": [
+                  "2 beef steaks (8 oz each)",
+                  "Salt and black pepper to taste",
+                  "1 tablespoon olive oil",
+                  "2 cloves garlic, minced",
+                  "1 teaspoon rosemary, chopped",
+                  "1 teaspoon thyme, chopped",
+                  "4 tablespoons butter"
+                ],
+                "cookingMethod": "1. Preheat grill to high heat. Season steaks with salt, pepper, and olive oil.\n2. Grill steaks for 4-5 minutes per side for medium-rare.\n3. In a skillet, melt butter and add minced garlic, rosemary, and thyme. Baste steaks with the herbed butter.\n4. Let steaks rest for a few minutes before serving.",
+                "rating": 4.8
+              }
+        
+          ]
+      },
+      {
+        "id": 4,
+        "picture": "https://example.com/chef2-profile.jpg",
+        "name": "Mehboob Khan",
+        "yearsOfExperience": 8,
+        "numOfRecipes": 90,
+        "likes": 12000,
+        "description": "Chef Mehboob Khan is a Pakistani culinary expert and television host, famous for his cooking programs that showcase a variety of Pakistani and fusion dishes.",
+        "recipes": [
+            {
+              "recipe_id": 1,
+              "title": "Chicken Fajitas",
+              "picture": "https://th.bing.com/th/id/R.ef56ce7eb66714ca35d611282992472c?rik=8sn6wESr47JxdQ&pid=ImgRaw&r=0",
+              "ingredients": [
+                "2 boneless chicken breasts, sliced",
+                "1 red bell pepper, sliced",
+                "1 green bell pepper, sliced",
+                "1 onion, sliced",
+                "2 tablespoons fajita seasoning",
+                "4 flour tortillas",
+                "Sour cream and salsa (for serving)"
+              ],
+              "cookingMethod": "1. Heat a skillet over medium-high heat. Add chicken and fajita seasoning. Cook until no longer pink.\n2. Push chicken to the side and add bell peppers and onion. Cook until softened.\n3. Serve on warm tortillas. Top with sour cream and salsa.",
+              "rating": 4.7
+            },
+            {
+              "recipe_id": 2,
+              "title": "Chicken Biryani",
+              "picture": "https://th.bing.com/th/id/OIP.pA3QV9le3tWkxzb9gqli0gHaFj?pid=ImgDet&rs=1",
+              "ingredients": [
+                "2 boneless chicken breasts, sliced",
+                "1 red bell pepper, sliced",
+                "1 green bell pepper, sliced",
+                "1 onion, sliced",
+                "2 tablespoons fajita seasoning",
+                "4 flour tortillas",
+                "Sour cream and salsa (for serving)"
+              ],
+              "cookingMethod": "1. Heat a skillet over medium-high heat. Add chicken and fajita seasoning. Cook until no longer pink.\n2. Push chicken to the side and add bell peppers and onion. Cook until softened.\n3. Serve on warm tortillas. Top with sour cream and salsa.",
+              "rating": 4.7
+            }
+            , {
+              "recipe_id": 3,
+              "title": "Naga Chicken",
+              "picture": "https://th.bing.com/th/id/R.66d0540c5d50af120ee69082aa92e1fe?rik=So0FOScT%2f3l8og&pid=ImgRaw&r=0",
+              "ingredients": [
+                "2 boneless chicken breasts, sliced",
+                "1 red bell pepper, sliced",
+                "1 green bell pepper, sliced",
+                "1 onion, sliced",
+                "2 tablespoons fajita seasoning",
+                "4 flour tortillas",
+                "Sour cream and salsa (for serving)"
+              ],
+              "cookingMethod": "1. Heat a skillet over medium-high heat. Add chicken and fajita seasoning. Cook until no longer pink.\n2. Push chicken to the side and add bell peppers and onion. Cook until softened.\n3. Serve on warm tortillas. Top with sour cream and salsa.",
+              "rating": 4.7
+            }
+          ]
+      },
+      {
+        "id": 5,
+        "picture": "https://example.com/chef2-profile.jpg",
+        "name": "Gulzar Hussain",
+        "yearsOfExperience": 8,
+        "numOfRecipes": 90,
+        "likes": 12000,
+        "description": "Gulzar Hussain is a Pakistani chef and TV personality known for his engaging cooking shows, where he presents a mix of Pakistani and international recipes",
+        "recipes": [
+            {
+              "title": "Beef Nehari",
+              "picture": "https://th.bing.com/th/id/OIP.c7Ow5QP44Z7Gkt2AqPOjAgHaFj?pid=ImgDet&rs=1",
+              "ingredients": [
+                "2 beef steaks (8 oz each)",
+                "Salt and black pepper to taste",
+                "1 tablespoon olive oil",
+                "2 cloves garlic, minced",
+                "1 teaspoon rosemary, chopped",
+                "1 teaspoon thyme, chopped",
+                "4 tablespoons butter"
+              ],
+              "cookingMethod": "1. Preheat grill to high heat. Season steaks with salt, pepper, and olive oil.\n2. Grill steaks for 4-5 minutes per side for medium-rare.\n3. In a skillet, melt butter and add minced garlic, rosemary, and thyme. Baste steaks with the herbed butter.\n4. Let steaks rest for a few minutes before serving.",
+              "rating": 4.8
+            },
+        
+            {
+                "title": "Chicken Korma",
+                "picture": "https://th.bing.com/th/id/OIP.mqnc6Vl1IzI17axcXoX_ygHaHa?pid=ImgDet&rs=1",
+                "ingredients": [
+                  "2 beef steaks (8 oz each)",
+                  "Salt and black pepper to taste",
+                  "1 tablespoon olive oil",
+                  "2 cloves garlic, minced",
+                  "1 teaspoon rosemary, chopped",
+                  "1 teaspoon thyme, chopped",
+                  "4 tablespoons butter"
+                ],
+                "cookingMethod": "1. Preheat grill to high heat. Season steaks with salt, pepper, and olive oil.\n2. Grill steaks for 4-5 minutes per side for medium-rare.\n3. In a skillet, melt butter and add minced garlic, rosemary, and thyme. Baste steaks with the herbed butter.\n4. Let steaks rest for a few minutes before serving.",
+                "rating": 4.8
+              },
+              
+            {
+                "title": "Prawn Maalai Curry",
+                "picture": "https://th.bing.com/th/id/OIP.XdAPbAL6WBlUd-LQrHZREQHaHa?pid=ImgDet&rs=1",
+                "ingredients": [
+                  "2 beef steaks (8 oz each)",
+                  "Salt and black pepper to taste",
+                  "1 tablespoon olive oil",
+                  "2 cloves garlic, minced",
+                  "1 teaspoon rosemary, chopped",
+                  "1 teaspoon thyme, chopped",
+                  "4 tablespoons butter"
+                ],
+                "cookingMethod": "1. Preheat grill to high heat. Season steaks with salt, pepper, and olive oil.\n2. Grill steaks for 4-5 minutes per side for medium-rare.\n3. In a skillet, melt butter and add minced garlic, rosemary, and thyme. Baste steaks with the herbed butter.\n4. Let steaks rest for a few minutes before serving.",
+                "rating": 4.8
+              }
+        
+          ]
+      },
+      {
+        "id": 6,
+        "picture": "https://th.bing.com/th/id/OIP.QnQ8bHRRATqbb-9-q-3QkwHaFt?pid=ImgDet&rs=1",
+        "name": "Sadia Imam",
+        "yearsOfExperience": 8,
+        "numOfRecipes": 90,
+        "likes": 12000,
+        "description": "While primarily known as an actress and TV host, Sadia Imam has also hosted cooking shows where she shares her culinary expertise and presents Pakistani recipes.",
+        "recipes": [
+          {
+            "recipe_id": 1,
+            "title": "Chicken Fajitas",
+            "picture": "https://th.bing.com/th/id/R.ef56ce7eb66714ca35d611282992472c?rik=8sn6wESr47JxdQ&pid=ImgRaw&r=0",
+            "ingredients": [
+              "2 boneless chicken breasts, sliced",
+              "1 red bell pepper, sliced",
+              "1 green bell pepper, sliced",
+              "1 onion, sliced",
+              "2 tablespoons fajita seasoning",
+              "4 flour tortillas",
+              "Sour cream and salsa (for serving)"
+            ],
+            "cookingMethod": "1. Heat a skillet over medium-high heat. Add chicken and fajita seasoning. Cook until no longer pink.\n2. Push chicken to the side and add bell peppers and onion. Cook until softened.\n3. Serve on warm tortillas. Top with sour cream and salsa.",
+            "rating": 4.7
+          },
+          {
+            "recipe_id": 2,
+            "title": "Chicken Biryani",
+            "picture": "https://th.bing.com/th/id/OIP.pA3QV9le3tWkxzb9gqli0gHaFj?pid=ImgDet&rs=1",
+            "ingredients": [
+              "2 boneless chicken breasts, sliced",
+              "1 red bell pepper, sliced",
+              "1 green bell pepper, sliced",
+              "1 onion, sliced",
+              "2 tablespoons fajita seasoning",
+              "4 flour tortillas",
+              "Sour cream and salsa (for serving)"
+            ],
+            "cookingMethod": "1. Heat a skillet over medium-high heat. Add chicken and fajita seasoning. Cook until no longer pink.\n2. Push chicken to the side and add bell peppers and onion. Cook until softened.\n3. Serve on warm tortillas. Top with sour cream and salsa.",
+            "rating": 4.7
+          }
+          , {
+            "recipe_id": 3,
+            "title": "Naga Chicken",
+            "picture": "https://th.bing.com/th/id/R.66d0540c5d50af120ee69082aa92e1fe?rik=So0FOScT%2f3l8og&pid=ImgRaw&r=0",
+            "ingredients": [
+              "2 boneless chicken breasts, sliced",
+              "1 red bell pepper, sliced",
+              "1 green bell pepper, sliced",
+              "1 onion, sliced",
+              "2 tablespoons fajita seasoning",
+              "4 flour tortillas",
+              "Sour cream and salsa (for serving)"
+            ],
+            "cookingMethod": "1. Heat a skillet over medium-high heat. Add chicken and fajita seasoning. Cook until no longer pink.\n2. Push chicken to the side and add bell peppers and onion. Cook until softened.\n3. Serve on warm tortillas. Top with sour cream and salsa.",
+            "rating": 4.7
+          }
+        ]
+      }
+  ]
