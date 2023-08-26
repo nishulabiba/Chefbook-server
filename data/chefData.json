@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-      "picture": "https://example.com/chef1-profile.jpg",
+      "picture": "https://th.bing.com/th/id/R.f98bbaa9e15c84462688482f1bf33883?rik=uGujRG%2bfUjcRww&pid=ImgRaw&r=0",
       "name": "Zubaida Tariq",
       "yearsOfExperience": 15,
       "numOfRecipes": 190,
@@ -60,7 +60,7 @@
     },
     {
         "id": 2,
-      "picture": "https://example.com/chef2-profile.jpg",
+      "picture": "https://www.masala.tv/wp-content/uploads/2020/03/EWS.jpg",
       "name": "Shireen Anwar",
       "yearsOfExperience": 8,
       "numOfRecipes": 90,
@@ -119,7 +119,7 @@
     },
     {
         "id": 3,
-        "picture": "https://example.com/chef2-profile.jpg",
+        "picture": "https://th.bing.com/th/id/R.6720b16a4d0d18defb588d7dd48f44c1?rik=8cBnLVXikd51Vw&pid=ImgRaw&r=0",
         "name": "Chef Zakir",
         "yearsOfExperience": 8,
         "numOfRecipes": 90,
@@ -178,7 +178,7 @@
       },
       {
         "id": 4,
-        "picture": "https://example.com/chef2-profile.jpg",
+        "picture": "https://th.bing.com/th/id/OIP.jTVl3ApCDF5-oitvRpvstgHaHa?pid=ImgDet&rs=1",
         "name": "Mehboob Khan",
         "yearsOfExperience": 8,
         "numOfRecipes": 90,
@@ -237,7 +237,7 @@
       },
       {
         "id": 5,
-        "picture": "https://example.com/chef2-profile.jpg",
+        "picture": "https://th.bing.com/th/id/OIP.ewPJMWtO6f_I01GayFkPMQHaHa?pid=ImgDet&rs=1",
         "name": "Gulzar Hussain",
         "yearsOfExperience": 8,
         "numOfRecipes": 90,
