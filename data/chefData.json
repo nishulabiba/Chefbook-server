@@ -62,9 +62,9 @@
         "id": 2,
       "picture": "https://www.masala.tv/wp-content/uploads/2020/03/EWS.jpg",
       "name": "Shireen Anwar",
-      "yearsOfExperience": 8,
-      "numOfRecipes": 90,
-      "likes": 12000,
+      "yearsOfExperience": 4,
+      "numOfRecipes": 100,
+      "likes": 13000,
       "description": "Shireen Anwar is a Pakistani chef and cooking show host known for her delicious and diverse recipes. She's popular for sharing both traditional and contemporary Pakistani dishes.",
       "recipes": [
         {
@@ -121,9 +121,9 @@
         "id": 3,
         "picture": "https://th.bing.com/th/id/R.6720b16a4d0d18defb588d7dd48f44c1?rik=8cBnLVXikd51Vw&pid=ImgRaw&r=0",
         "name": "Chef Zakir",
-        "yearsOfExperience": 8,
-        "numOfRecipes": 90,
-        "likes": 12000,
+        "yearsOfExperience": 7,
+        "numOfRecipes": 190,
+        "likes": 19000,
         "description": "Chef Zakir is a well-known Pakistani chef and cooking expert who gained fame through his cooking shows on television, where he demonstrated a wide range of Pakistani and international recipes.",
         "recipes": [
             {
@@ -180,9 +180,9 @@
         "id": 4,
         "picture": "https://th.bing.com/th/id/OIP.jTVl3ApCDF5-oitvRpvstgHaHa?pid=ImgDet&rs=1",
         "name": "Mehboob Khan",
-        "yearsOfExperience": 8,
-        "numOfRecipes": 90,
-        "likes": 12000,
+        "yearsOfExperience": 6,
+        "numOfRecipes": 80,
+        "likes": 10000,
         "description": "Chef Mehboob Khan is a Pakistani culinary expert and television host, famous for his cooking programs that showcase a variety of Pakistani and fusion dishes.",
         "recipes": [
             {
@@ -239,9 +239,9 @@
         "id": 5,
         "picture": "https://th.bing.com/th/id/OIP.ewPJMWtO6f_I01GayFkPMQHaHa?pid=ImgDet&rs=1",
         "name": "Gulzar Hussain",
-        "yearsOfExperience": 8,
-        "numOfRecipes": 90,
-        "likes": 12000,
+        "yearsOfExperience": 18,
+        "numOfRecipes": 290,
+        "likes": 17000,
         "description": "Gulzar Hussain is a Pakistani chef and TV personality known for his engaging cooking shows, where he presents a mix of Pakistani and international recipes",
         "recipes": [
             {
@@ -298,9 +298,9 @@
         "id": 6,
         "picture": "https://superstarsbio.com/wp-content/uploads/2021/01/Sadia-Imam.jpg",
         "name": "Sadia Imam",
-        "yearsOfExperience": 8,
-        "numOfRecipes": 90,
-        "likes": 12000,
+        "yearsOfExperience": 5,
+        "numOfRecipes": 60,
+        "likes": 13000,
         "description": "While primarily known as an actress and TV host, Sadia Imam has also hosted cooking shows where she shares her culinary expertise and presents Pakistani recipes.",
         "recipes": [
           {
