@@ -17,6 +17,12 @@ app.get("/chefdetails", (req, res)=>{
     res.send(chefData)
 } )
 
+app.get("/chefdetails/:id", (req, res)=>{
+    const details = chefData.find(data=> data.id === req.params.id)
+
+    res.send(details)
+})
+
 app.listen(port, ()=>{
     console.log(`chefData api running on port ${port}`);
 })
